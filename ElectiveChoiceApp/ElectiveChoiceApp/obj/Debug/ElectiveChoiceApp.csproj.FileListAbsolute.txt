@@ -1,0 +1,10 @@
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\bin\Debug\ElectiveChoiceApp.exe.config
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\bin\Debug\ElectiveChoiceApp.exe
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\bin\Debug\ElectiveChoiceApp.pdb
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\obj\Debug\ElectiveChoiceApp.csprojAssemblyReference.cache
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\obj\Debug\ElectiveChoiceApp.Form1.resources
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\obj\Debug\ElectiveChoiceApp.Properties.Resources.resources
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\obj\Debug\ElectiveChoiceApp.csproj.GenerateResource.cache
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\obj\Debug\ElectiveChoiceApp.csproj.CoreCompileInputs.cache
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\obj\Debug\ElectiveChoiceApp.exe
+C:\Users\tauri\source\repos\ElectiveChoiceApp\ElectiveChoiceApp\obj\Debug\ElectiveChoiceApp.pdb
